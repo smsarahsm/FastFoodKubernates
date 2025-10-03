@@ -21,5 +21,5 @@ variable "tags" {
 }
 
 variable "role_lab" {
-  default = "arn:aws:iam::387847618404:role/LabRole" #TODO trocar pelo AWSAccountId da conta que for executar
+  default = "arn:aws:iam::534662886880:role/LabRole" #TODO trocar pelo AWSAccountId da conta que for executar
 }
